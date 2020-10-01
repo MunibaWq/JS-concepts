@@ -1,0 +1,13 @@
+
+
+html,body{height:100%;}
+
+div{
+    width: 110;
+    height: 40;
+    padding: 10;
+    background-color: lightpink;
+    font-size: 24;
+    margin: 15;
+    border-radius: 10px;
+}
